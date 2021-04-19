@@ -1,4 +1,3 @@
-#!/bin/bash
 # Coded by: thelinuxchoice (Don't change, noob!)
 # www.github.com/thelinuxchoice
 # www.instagram.com/thelinuxchoice
